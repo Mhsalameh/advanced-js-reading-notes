@@ -1,5 +1,5 @@
 # Content
-- [Even Loop](#event-loop)
+- [Event Loop](#event-loop)
 - [JS callback functions](#js-callback-functions)
 - [JS Promises](#js-promises)
 - [JS Async/Await](#js-asyncawait)
@@ -144,7 +144,7 @@ let's say we have a button and we want the button to **console a message** when 
 //JavaScript:
 const btn=document.getDocumentById("callback-btn);
 
-callback-btn.addEvenetListener("click", ()=>{
+callback-btn.addEventListener("click", ()=>{
     console.log("button was clicked");
 })
 ```
@@ -235,7 +235,7 @@ takes one function as a parameter:
 
 # JS Async/Await
 
-We already know the JS and a single threaded language, and we already know what the means refer to [Even loop](#event-loop), but there are some built in functionalities that we can use in our program to make it asynchronous. one of them is **Async/Await**.<br/>
+We already know the JS and a single threaded language, and we already know what the means refer to [Event loop](#event-loop), but there are some built in functionalities that we can use in our program to make it asynchronous. one of them is **Async/Await**.<br/>
 Async/Await is the extension of promises.<br/>
 
 ## Async:
