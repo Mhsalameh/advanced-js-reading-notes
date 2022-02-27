@@ -1,5 +1,23 @@
 # Data Modeling
 
+## questions
+
+1. Name 3 advantages to Test Driven Development
+    1. higher productivity
+    2. fewer bugs
+    3. makes maintainance much easier
+2. In what case would you need to use beforeEach() or afterEach() in a test suite?
+    - we use beforeEach to run a block of code before each test
+    - we use afterEach to run a block of code after each test
+3. What is one downside of Test Driven Development
+    - TDD needs committed team that all agree on the efficiency of TDD, and it requires more time early.
+4. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
+    - ES6 classes : its syntax is similar to object creation in other object-oriented programming languages
+    - ES5 Constructor/Prototype: its syntax is unique and is not found in other object-oriented programming languages.
+5. Why REST?
+    - it provides flexibility, data isn't tied to resources or methods, REST can handle multiple type of calls and return different formats of data.
+
+
 ## What is SQL?
 *SQL** stands for **S**tructured **Q**uery **L**anguage, it is a language that allows you to write databse queries that looks like this:
 ```
@@ -42,4 +60,19 @@ The name for stands for **Humongous** because it can store a huge ammount of dat
     | Limitations for read & write queries per second   | Great performance for mass read and write requests        |
 
 
-    
+## Preview
+1. Which 3 things had you heard about previously and now have better clarity on?
+    1. SQL
+    2. relational databases
+    3. Classes and the difference between ES6 constructor and ES5 constructors
+
+2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+    1. More about databases
+    2. NoSQL
+    3. sequelize API
+3. What are you most excited about trying to implement or see how it works?
+    - I want to know more about NoSQL and how we use it
+
+## Bookmarks
+- [Sequilize API](https://sequelize.org/master/)
+Sequelize is an ORM tool for many relational DBMSs.
