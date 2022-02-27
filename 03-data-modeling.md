@@ -17,6 +17,27 @@
 5. Why REST?
     - it provides flexibility, data isn't tied to resources or methods, REST can handle multiple type of calls and return different formats of data.
 
+## Vocabulary terms
+- functional Programming
+    - (**FP**) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions. It helps us to solve problems effectively in a simpler way. Some of the popular functional programming languages include: **Lisp, Python, Erlang, Haskell, Clojure**
+- object-oriented programming (OOP)
+    - (**OOP**) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior. Object-oriented programming has four basic concepts: **encapsulation, abstraction, inheritance, and polymorphism**. There are many object-oriented programming languages including **JavaScript, C++, Java, and Python**
+- class 
+    - A class is a template definition of the methods and variables in a particular kind of object
+- super
+    -  `Super` keyword acts as a reference variable to the parent class. It is mainly used when we want to access a variable, method, or constructor in the base class from the derived class.
+- this
+    - `This` keyword refers to an object. Which object depends on how this is being invoked (used or called). The this keyword refers to different objects depending on how it is used: In an object method, this refers to the object
+- Test Driven Development (TDD)
+    - Test Driven Development (TDD) is a software development practice that focuses on creating unit test cases before developing the actual code.
+- jest
+    - Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It's an open source project maintained by Facebook, and it's especially well suited for React code testing, although not limited to that: it can test any JavaScript code
+- Continuous Integration (CI)
+    - Continuous integration is a DevOps software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run. Continuous Integration enables better transparency and farsightedness in the process of software development and delivery. 
+- REST
+    - REST stands for REpresentational State Transfer. It means when a RESTful API is called, the server will transfer to the client a representation of the state of the requested resource. REST defines a set of constraints for how the architecture of an Internet-scale distributed hypermedia system, such as the Web, should behave.
+- Data Model
+    - Data models are visual representations of an enterprise's data elements and the connections between them. By helping to define and structure data in the context of relevant business processes, models support the development of effective information systems.
 
 ## What is SQL?
 *SQL** stands for **S**tructured **Q**uery **L**anguage, it is a language that allows you to write databse queries that looks like this:
