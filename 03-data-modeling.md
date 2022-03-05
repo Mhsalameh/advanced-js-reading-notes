@@ -71,7 +71,7 @@ The name for stands for **Humongous** because it can store a huge ammount of dat
     - No/Few Relations, NoSQL doesn't rely much on relations like SQL, you can kind of relate multiple documents inside the collections together but NoSQL isn't reliant on that. Instead we can put all the information in one place 
 
 ## Main differences
-- SQL vs NoSQL<br/>
+- SQL vs NoSQL
 | SQL | NoSQL |
 | --------- | --------- |
 | Data use schemas | Schemaless |
