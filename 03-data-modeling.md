@@ -72,13 +72,13 @@ The name for stands for **Humongous** because it can store a huge ammount of dat
 
 ## Main differences
 - SQL vs NoSQL<br/>
-    | SQL | NoSQL |
-    | ----------- | ----------- |
-    | Data use schemas | Schemaless |
-    | Relations | No/Few relations |
-    | Data is distributed in multiple tables | data is nested in a few collections |
-    | Horizontal scaling is difficult, vertical scaling is possible | Both horizontal and vertical scaling is possible |
-    | Limitations for read & write queries per second | Great performance for mass read and write requests |
+| SQL | NoSQL |
+| --------- | --------- |
+| Data use schemas | Schemaless |
+| Relations | No/Few relations |
+| Data is distributed in multiple tables | data is nested in a few collections |
+| Horizontal scaling is difficult, vertical scaling is possible | Both horizontal and vertical scaling is possible |
+| Limitations for read & write queries per second | Great performance for mass read and write requests |
 
 
 ## Preview
