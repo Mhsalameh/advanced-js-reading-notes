@@ -14,7 +14,7 @@ This repo contains my reading notes
 
 | [07-Bearer-Authorization](./07-Bearer-Authorization.md)| [07-Acess-Control](./08-Access-Control.md) |
 | --------- | --------- |
-| [Review, Research, and Discussion](./07-Bearer-Authorization.md)| [07-Acess-Control](./08-Access-Control.md) |
-| [Vocabulary Terms](./07-Bearer-Authorization.md#vocabulary-terms)| [07-Acess-Control](./08-Access-Control.md) |
-| [JWT](./07-Bearer-Authorization.md#jwt)| [07-Acess-Control](./08-Access-Control.md) |
-| [Are JWTs Secure?](./07-Bearer-Authorization.md#are-jwts-secure)| [07-Acess-Control](./08-Access-Control.md) |
+| [Review, Research, and Discussion](./07-Bearer-Authorization.md)| [07-Acess-Control](./08-Access-Control.md#acess-control--access-control-list-acl) |
+| [Vocabulary Terms](./07-Bearer-Authorization.md#vocabulary-terms)| [Vocabulary Terms](./08-Access-Control.md#review-research-and-discussion) |
+| [JWT](./07-Bearer-Authorization.md#jwt)| [07-Acess-Control](./08-Access-Control.md#bookmarks) |
+| [Are JWTs Secure?](./07-Bearer-Authorization.md#are-jwts-secure)| - |
