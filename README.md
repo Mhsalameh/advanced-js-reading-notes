@@ -12,9 +12,9 @@ This repo contains my reading notes
 | [JS Async/Await](./01-prep-and-tdd.md#js-asyncawait) | [Express routing](./02-Express-REST-API.md#express-routing) | - | -  | [Basic Access Authentication](./05-Authentication.md#basic-access-authentication) |
 | [Test-Driven Development](./01-prep-and-tdd.md#test-driven-development) | [Using express router](./02-Express-REST-API.md#using-express-router) | -  | - | [OWASP & bcrypt](./05-Authentication.md#owasp-auth-cheatsheet) |
 
-| [07-Bearer-Authorization](./07-Bearer-Authorization.md)| [07-Acess-Control](./08-Access-Control.md) |
-| --------- | --------- |
-| [Review, Research, and Discussion](./07-Bearer-Authorization.md)| [07-Acess-Control](./08-Access-Control.md#acess-control--access-control-list-acl) |
-| [Vocabulary Terms](./07-Bearer-Authorization.md#vocabulary-terms)| [Vocabulary Terms](./08-Access-Control.md#review-research-and-discussion) |
-| [JWT](./07-Bearer-Authorization.md#jwt)| [07-Acess-Control](./08-Access-Control.md#bookmarks) |
-| [Are JWTs Secure?](./07-Bearer-Authorization.md#are-jwts-secure)| - |
+| [07-Bearer-Authorization](./07-Bearer-Authorization.md)| [07-Acess-Control](./08-Access-Control.md) | [09-Authorization-Authentication](./09-Authorization-Authentication.md)|
+| --------- | --------- | --------- |
+| [Review, Research, and Discussion](./07-Bearer-Authorization.md)| [07-Acess-Control](./08-Access-Control.md#acess-control--access-control-list-acl) | [Questions](./09-Authorization-Authentication.md#review-research-and-discussion)|
+| [Vocabulary Terms](./07-Bearer-Authorization.md#vocabulary-terms)| [Vocabulary Terms](./08-Access-Control.md#review-research-and-discussion) | [Vocabulary Terms](./09-Authorization-Authentication.md#vocabulary-terms)|
+| [JWT](./07-Bearer-Authorization.md#jwt)| [07-Acess-Control](./08-Access-Control.md#bookmarks) | - |
+| [Are JWTs Secure?](./07-Bearer-Authorization.md#are-jwts-secure)| - | - |
