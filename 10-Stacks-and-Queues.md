@@ -37,7 +37,7 @@ Queues follow these concepts:
 - LILO (Last In Last Out), This means that the last item in the queue will be the last item out of the queue.
 - Queue Visualization:
   Here is what a Queue looks like:
-  ![queue](./08-Access-Control.md)
+  ![queue](./assets/Queue.png)
 
 ## Bookmarks
 
