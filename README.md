@@ -19,7 +19,7 @@ This repo contains my reading notes
 | [JWT](./07-Bearer-Authorization.md#jwt)                           | [bookmarks](./08-Access-Control.md#bookmarks)                             | -                                                                                |
 | [Are JWTs Secure?](./07-Bearer-Authorization.md#are-jwts-secure)  | -                                                                         | -                                                                                |
 
-| [10-Stacks-and-Queues](./10-Stacks-and-Queues.md)  | [11-Event-Driven-Application](./11-Event-Driven-Application.md)                        |
+| [10-Stacks-and-Queues](./10-Stacks-and-Queues.md)  | [11-Event-Driven-Application](./11-Event-Driven-Applications.md)                        |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [stacks](./10-Stacks-and-Queues.md#what-is-stack)  | [questions](./11-Event-Driven-Applications.md#questions)                               |
 | [Queues](./10-Stacks-and-Queues.md/#what-is-queue) | [Vocabulary Termms](./11-Event-Driven-Applications.md#vocabulary-terms)                |
