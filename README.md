@@ -4,7 +4,7 @@ This repo contains my reading notes
 
 ## table of contents
 
-| [01-prep-and-tdd](./01-prep-and-tdd.md)                                 | [02-Express-Rest-API](./02-Express-REST-API.md)                       | [03-data-modeling](./03-data-modeling.md)                  | [04-linked-list](./04-linked-lists.md)                                    | [05-Authentication](./04-linked-lists.md)(./05-Authentication.md)                 |
+| [01-prep-and-tdd](./01-prep-and-tdd.md)                                 | [02-Express-Rest-API](./02-Express-REST-API.md)                       | [03-data-modeling](./03-data-modeling.md)                  | [04-linked-list](./04-linked-lists.md)                                    | [05-Authentication](./05-Authentication.md)                 |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [Event Loop](./01-prep-and-tdd.md#event-loop)                           | [questions](./02-Express-REST-API.md#questions)                       | [SQL](./03-data-modeling.md#what-is-sql)                   | [Linear Complexity Growth](./04-linked-lists.md#linear-complexity-growth) | [Authentication](./05-Authentication.md#authentication)                           |
 | [JS callback functions](./01-prep-and-tdd.md#js-callback-functions)     | [Classes](./02-Express-REST-API.md#classes)                           | [NoSQL](./03-data-modeling.md#what-is-nosql-mongodb)       | [Linked Lists](./04-linked-lists.md#linked-list)                          | [Securing Passwords](./05-Authentication.md#securing-passwords)                   |
@@ -19,7 +19,8 @@ This repo contains my reading notes
 | [JWT](./07-Bearer-Authorization.md#jwt)                           | [bookmarks](./08-Access-Control.md#bookmarks)                             | -                                                                                |
 | [Are JWTs Secure?](./07-Bearer-Authorization.md#are-jwts-secure)  | -                                                                         | -                                                                                |
 
-| [10-Stacks-and-Queues](./10-Stacks-and-Queues.md)  |
-| -------------------------------------------------- |
-| [stacks](./10-Stacks-and-Queues.md#what-is-stack)  |
-| [Queues](./10-Stacks-and-Queues.md/#what-is-queue) |
+| [10-Stacks-and-Queues](./10-Stacks-and-Queues.md)  | [11-Event-Driven-Application](./11-Event-Driven-Application.md)                        |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [stacks](./10-Stacks-and-Queues.md#what-is-stack)  | [questions](./11-Event-Driven-Applications.md#questions)                               |
+| [Queues](./10-Stacks-and-Queues.md/#what-is-queue) | [Vocabulary Termms](./11-Event-Driven-Applications.md#vocabulary-terms)                |
+| [bookmarks](./10-Stacks-and-Queues.md#bookmarks)   | [Event Driven Programming](./11-Event-Driven-Applications.md#event-driven-programming) |
