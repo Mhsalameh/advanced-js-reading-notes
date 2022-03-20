@@ -40,12 +40,12 @@ Socket.IO is the popular javascript library that helps us to create a real-time 
 Socket.IO allows bi-directional communication between client and server. Bi-directional communications are enabled when a client has Socket.IO in the browser, and a server has also integrated the Socket.IO package. While data can be sent in a number of forms, JSON is the simplest.
 
 ## bookmarks
-[video - OSI mode explained](https://www.youtube.com/watch?v=vv4y_uOneC0)
-[video - TCP Handshakes Explained](https://www.youtube.com/watch?v=xMtP5ZB3wSk)
-[web sockets](https://en.wikipedia.org/wiki/WebSocket)
-[socket.io toturial](https://www.tutorialspoint.com/socket.io/)
-[sockets vs web sockets](https://www.educba.com/websocket-vs-socket-io/)
-[Socket.io Documentation](https://socket.io/docs/)
-[Socket.io Server API](https://socket.io/docs/server-api)
-[Socket.io Client API](https://socket.io/docs/client-api)
-[Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
+- [video - OSI mode explained](https://www.youtube.com/watch?v=vv4y_uOneC0)
+- [video - TCP Handshakes Explained](https://www.youtube.com/watch?v=xMtP5ZB3wSk)
+- [web sockets](https://en.wikipedia.org/wiki/WebSocket)
+- [socket.io toturial](https://www.tutorialspoint.com/socket.io/)
+- [sockets vs web sockets](https://www.educba.com/websocket-vs-socket-io/)
+- [Socket.io Documentation](https://socket.io/docs/)
+- [Socket.io Server API](https://socket.io/docs/server-api)
+- [Socket.io Client API](https://socket.io/docs/client-api)
+- [Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
