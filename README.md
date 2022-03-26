@@ -25,9 +25,9 @@ This repo contains my reading notes
 | [Queues](./10-Stacks-and-Queues.md/#what-is-queue) | [Vocabulary Termms](./11-Event-Driven-Applications.md#vocabulary-terms)                | [Vocabulary Terms](./12-Socket.io.md#vocabulary-terms) |
 | [bookmarks](./10-Stacks-and-Queues.md#bookmarks)   | [Event Driven Programming](./11-Event-Driven-Applications.md#event-driven-programming) | [web Sockets](./12-Socket.io.md#web-sockets)           |
 
-| [13-message-queue](./13-message-queues.md)                  |
-| ----------------------------------------------------------- |
-| [questions](./13-message-queues.md#questions)               |
-| [vocabulary-terms](./13-message-queues.md#vocabulary-terms) |
-| [chat example](./13-message-queues.md#chat-example)         |
-| [bookmarks](./13-message-queues.md#bookmarks)               |
+| [13-message-queue](./13-message-queues.md)                  | [14-tees](./14-trees.md)                   |
+| ----------------------------------------------------------- | ------------------------------------------ |
+| [questions](./13-message-queues.md#questions)               | [Terms](./14-trees.md/#trees)              |
+| [vocabulary-terms](./13-message-queues.md#vocabulary-terms) | [Binary Trees](./14-trees.md#binary-trees) |
+| [chat example](./13-message-queues.md#chat-example)         | [K-ary Trees](./14-trees.md#k-ary-trees)   |
+| [bookmarks](./13-message-queues.md#bookmarks)               | [bookmarks](./14-trees.md#bookmarks)       |
