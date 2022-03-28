@@ -43,4 +43,4 @@ Elastic beanstalk levarages familiar AWS services such as EC2, S3, Simple Notifi
 - [EC2 for humans](https://www.youtube.com/watch?v=lZMkgOMYYIg)
 - [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
 - [What is Vertual Machines video](https://www.youtube.com/watch?v=yIVXjl4SwVo)
-- [Introduction to Virtualization and Cloud Computing][https://www.youtube.com/watch?v=l0DfHUWMjsU]
+- [Introduction to Virtualization and Cloud Computing](https://www.youtube.com/watch?v=l0DfHUWMjsU)
