@@ -32,9 +32,9 @@ This repo contains my reading notes
 | [chat example](./13-message-queues.md#chat-example)         | [K-ary Trees](./14-trees.md#k-ary-trees)   | -                                                                    |
 | [bookmarks](./13-message-queues.md#bookmarks)               | [bookmarks](./14-trees.md#bookmarks)       | [bookmarks](./16-AWS-Cloud-Servers.md#bookmarks)                     |
 
-| [17-AWS-S3-and-Lambda](./17-AWS-S3-and-Lambda.md)                                  | [18-AWS--API-Dynamo-and-Lambda](./18-AWS--API-Dynamo-and-Lambda.md) |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [AWS S3](./17-AWS-S3-and-Lambda.md#aws-s3)                                         | [What is DynamoDB?](./18-AWS--API-Dynamo-and-Lambda.md#what-is-dynamodb)
-| [AWS Lambda](./17-AWS-S3-and-Lambda.md#aws-lambda)                                 | [Amazon API gateway](./18-AWS--API-Dynamo-and-Lambda.md#amazon-api-gateway)
-| [Content Delivery Network](./17-AWS-S3-and-Lambda.md#content-delivery-network-cdn) | [dynamoose](./18-AWS--API-Dynamo-and-Lambda.md#dynamoose)
-| [bookmarks](./17-AWS-S3-and-Lambda.md#bookmarks) | [bookmarks](./18-AWS--API-Dynamo-and-Lambda.md#bookmarks)
+| [17-AWS-S3-and-Lambda](./17-AWS-S3-and-Lambda.md)                                  | [18-AWS--API-Dynamo-and-Lambda](./18-AWS--API-Dynamo-and-Lambda.md) | [26-Component-Based-UI](./26-Component-Based-UI.md)
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [AWS S3](./17-AWS-S3-and-Lambda.md#aws-s3)                                         | [What is DynamoDB?](./18-AWS--API-Dynamo-and-Lambda.md#what-is-dynamodb) | [react hello world](./26-Component-Based-UI.md#react-hello-world) |
+| [AWS Lambda](./17-AWS-S3-and-Lambda.md#aws-lambda)                                 | [Amazon API gateway](./18-AWS--API-Dynamo-and-Lambda.md#amazon-api-gateway) | [Introducing JSX](./26-Component-Based-UI.md#introducing-jsx) |
+| [Content Delivery Network](./17-AWS-S3-and-Lambda.md#content-delivery-network-cdn) | [dynamoose](./18-AWS--API-Dynamo-and-Lambda.md#dynamoose) | [Rendering Elements](./26-Component-Based-UI.md#rendering-elements) |
+| [bookmarks](./17-AWS-S3-and-Lambda.md#bookmarks) | [bookmarks](./18-AWS--API-Dynamo-and-Lambda.md#bookmarks) | [bookmarks](./26-Component-Based-UI.md#bookmarks) |
