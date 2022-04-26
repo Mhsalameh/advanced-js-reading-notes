@@ -38,3 +38,10 @@ This repo contains my reading notes
 | [AWS Lambda](./17-AWS-S3-and-Lambda.md#aws-lambda)                                 | [Amazon API gateway](./18-AWS--API-Dynamo-and-Lambda.md#amazon-api-gateway) | [Introducing JSX](./26-Component-Based-UI.md#introducing-jsx) |
 | [Content Delivery Network](./17-AWS-S3-and-Lambda.md#content-delivery-network-cdn) | [dynamoose](./18-AWS--API-Dynamo-and-Lambda.md#dynamoose) | [Rendering Elements](./26-Component-Based-UI.md#rendering-elements) |
 | [bookmarks](./17-AWS-S3-and-Lambda.md#bookmarks) | [bookmarks](./18-AWS--API-Dynamo-and-Lambda.md#bookmarks) | [bookmarks](./26-Component-Based-UI.md#bookmarks) |
+
+| [27-useState-hook](./27-useState-hook.md) |
+| ------------------------------ |
+| [what are hooks](./27-useState-hook.md#what-are-hooks-exactly) |
+| [hooks overview](./27-useState-hook.md#hooks-overview) |
+| [useState hook](./27-useState-hook.md#usestate-hook) |
+| [bookmarks](./27-useState-hook.md#bookmarks-and-references) |
