@@ -39,9 +39,9 @@ This repo contains my reading notes
 | [Content Delivery Network](./17-AWS-S3-and-Lambda.md#content-delivery-network-cdn) | [dynamoose](./18-AWS--API-Dynamo-and-Lambda.md#dynamoose) | [Rendering Elements](./26-Component-Based-UI.md#rendering-elements) |
 | [bookmarks](./17-AWS-S3-and-Lambda.md#bookmarks) | [bookmarks](./18-AWS--API-Dynamo-and-Lambda.md#bookmarks) | [bookmarks](./26-Component-Based-UI.md#bookmarks) |
 
-| [27-useState-hook](./27-useState-hook.md) |
-| ------------------------------ |
-| [what are hooks](./27-useState-hook.md#what-are-hooks-exactly) |
-| [hooks overview](./27-useState-hook.md#hooks-overview) |
-| [useState hook](./27-useState-hook.md#usestate-hook) |
-| [bookmarks](./27-useState-hook.md#bookmarks-and-references) |
+| [27-useState-hook](./27-useState-hook.md) | [28-Component Lifecycle/ useEffect() Hoook](./28-component-lifecycle-useeffect-hook.md) |
+| ------------------------------ | ------------------------------ |
+| [what are hooks](./27-useState-hook.md#what-are-hooks-exactly) | [`ueseEffect` hooks](./28-component-lifecycle-useeffect-hook.md#ueseeffect-hooks) |
+| [hooks overview](./27-useState-hook.md#hooks-overview) | [Effects Without Cleanup](./28-component-lifecycle-useeffect-hook.md#effects-without-cleanup) |
+| [useState hook](./27-useState-hook.md#usestate-hook) | [Effects with Cleanup](./28-component-lifecycle-useeffect-hook.md#effects-with-cleanup) |
+| [bookmarks](./27-useState-hook.md#bookmarks-and-references) | [Bookmarks](./28-component-lifecycle-useeffect-hook.md#bookmarks) |
