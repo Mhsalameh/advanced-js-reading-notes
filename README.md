@@ -39,9 +39,9 @@ This repo contains my reading notes
 | [Content Delivery Network](./17-AWS-S3-and-Lambda.md#content-delivery-network-cdn) | [dynamoose](./18-AWS--API-Dynamo-and-Lambda.md#dynamoose) | [Rendering Elements](./26-Component-Based-UI.md#rendering-elements) |
 | [bookmarks](./17-AWS-S3-and-Lambda.md#bookmarks) | [bookmarks](./18-AWS--API-Dynamo-and-Lambda.md#bookmarks) | [bookmarks](./26-Component-Based-UI.md#bookmarks) |
 
-| [27-useState-hook](./27-useState-hook.md) | [28-Component Lifecycle/ useEffect() Hoook](./28-component-lifecycle-useeffect-hook.md) |
-| ------------------------------ | ------------------------------ |
-| [what are hooks](./27-useState-hook.md#what-are-hooks-exactly) | [`ueseEffect` hooks](./28-component-lifecycle-useeffect-hook.md#ueseeffect-hooks) |
-| [hooks overview](./27-useState-hook.md#hooks-overview) | [Effects Without Cleanup](./28-component-lifecycle-useeffect-hook.md#effects-without-cleanup) |
-| [useState hook](./27-useState-hook.md#usestate-hook) | [Effects with Cleanup](./28-component-lifecycle-useeffect-hook.md#effects-with-cleanup) |
-| [bookmarks](./27-useState-hook.md#bookmarks-and-references) | [Bookmarks](./28-component-lifecycle-useeffect-hook.md#bookmarks) |
+| [27-useState-hook](./27-useState-hook.md) | [28-Component Lifecycle/ useEffect() Hoook](./28-component-lifecycle-useeffect-hook.md) | [29-Advanced State with Reducers](./29-Advanced-State-with-Reducers.md) |
+| ------------------------------ | ------------------------------ | ------------------------------ |
+| [what are hooks](./27-useState-hook.md#what-are-hooks-exactly) | [`ueseEffect` hooks](./28-component-lifecycle-useeffect-hook.md#ueseeffect-hooks) | [Additional Hooks](./29-Advanced-State-with-Reducers.md#additional-hooks) |
+| [hooks overview](./27-useState-hook.md#hooks-overview) | [Effects Without Cleanup](./28-component-lifecycle-useeffect-hook.md#effects-without-cleanup) | [useReducer](./29-Advanced-State-with-Reducers.md#usereducer) |
+| [useState hook](./27-useState-hook.md#usestate-hook) | [Effects with Cleanup](./28-component-lifecycle-useeffect-hook.md#effects-with-cleanup) | [Ultimate Guide to useReducer](./29-Advanced-State-with-Reducers.md#ultimate-guide-to-usereducer) |
+| [bookmarks](./27-useState-hook.md#bookmarks-and-references) | [Bookmarks](./28-component-lifecycle-useeffect-hook.md#bookmarks) | [bookmarks](./29-Advanced-State-with-Reducers.md#bookmarks) |
