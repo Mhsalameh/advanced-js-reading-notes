@@ -46,5 +46,5 @@ This repo contains my reading notes
 | [useState hook](./27-useState-hook.md#usestate-hook) | [Effects with Cleanup](./28-component-lifecycle-useeffect-hook.md#effects-with-cleanup) | [Ultimate Guide to useReducer](./29-Advanced-State-with-Reducers.md#ultimate-guide-to-usereducer) |
 | [bookmarks](./27-useState-hook.md#bookmarks-and-references) | [Bookmarks](./28-component-lifecycle-useeffect-hook.md#bookmarks) | [bookmarks](./29-Advanced-State-with-Reducers.md#bookmarks) |
 
-| [30-Hash-Tables](./30-Hash-Tables.md) |
-| --------------------------------- |
+| [30-Hash-Tables](./30-Hash-Tables.md) | [31-Context-API](./31-Context-API.md) |
+| --------------------------------- |--------------------------------- |
