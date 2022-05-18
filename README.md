@@ -46,9 +46,13 @@ This repo contains my reading notes
 | [useState hook](./27-useState-hook.md#usestate-hook)           | [Effects with Cleanup](./28-component-lifecycle-useeffect-hook.md#effects-with-cleanup)       | [Ultimate Guide to useReducer](./29-Advanced-State-with-Reducers.md#ultimate-guide-to-usereducer) |
 | [bookmarks](./27-useState-hook.md#bookmarks-and-references)    | [Bookmarks](./28-component-lifecycle-useeffect-hook.md#bookmarks)                             | [bookmarks](./29-Advanced-State-with-Reducers.md#bookmarks)                                       |
 
+| [30-Hash-Tables](./30-Hash-Tables.md)                          | [31-Context-API](./31-Context-API.md)                              | [32-Context-API-Behaviors](./32-Context-API-behaviors.md)                      |
+| -------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [what is a hashtable](./30-Hash-Tables.md#what-is-a-hashtable) | [vocabulary terms](./31-Context-API.md#vocabulary-terms)           | [When to use a context](./32-Context-API-behaviors.md#when-to-use-a-context)   |
+| [creating a hash](./30-Hash-Tables.md#creating-a-hash)         | [Preparation Materials](./31-Context-API.md#preparation-materials) | [before you use context](./32-Context-API-behaviors.md#before-you-use-context) |
+| [bookmarks](./30-Hash-Tables.md#bookmarks)                     | [bookmnarks](./30-Hash-Tables.md#bookmarks)                        | [API](./32-Context-API-behaviors.md#api)                                       |
 
-| [30-Hash-Tables](./30-Hash-Tables.md)                          | [31-Context-API](./31-Context-API.md)                              |  [32-Context-API-Behaviors](./32-Context-API-behaviors.md)   |
-| -------------------------------------------------------------- | ------------------------------------------------------------------ | --- |
-| [what is a hashtable](./30-Hash-Tables.md#what-is-a-hashtable) | [vocabulary terms](./31-Context-API.md#vocabulary-terms)           |  [When to use a context](./32-Context-API-behaviors.md#when-to-use-a-context)   |
-| [creating a hash](./30-Hash-Tables.md#creating-a-hash)         | [Preparation Materials](./31-Context-API.md#preparation-materials) |  [before you use context](./32-Context-API-behaviors.md#before-you-use-context)   |
-| [bookmarks](./30-Hash-Tables.md#bookmarks)                     | [bookmnarks](./30-Hash-Tables.md#bookmarks)                        |  [API](./32-Context-API-behaviors.md#api)   |
+| [33-login-auth](./33-login-auth.md)                      |
+| -------------------------------------------------------- |
+| [](./33-login-auth.md#what-is-role-based-access-control) |
+| [bookmarks](./33-login-auth.md#bookmarks)                |
