@@ -52,7 +52,7 @@ This repo contains my reading notes
 | [creating a hash](./30-Hash-Tables.md#creating-a-hash)         | [Preparation Materials](./31-Context-API.md#preparation-materials) | [before you use context](./32-Context-API-behaviors.md#before-you-use-context) |
 | [bookmarks](./30-Hash-Tables.md#bookmarks)                     | [bookmnarks](./30-Hash-Tables.md#bookmarks)                        | [API](./32-Context-API-behaviors.md#api)                                       |
 
-| [33-login-auth](./33-login-auth.md)                      |
-| -------------------------------------------------------- |
-| [](./33-login-auth.md#what-is-role-based-access-control) |
-| [bookmarks](./33-login-auth.md#bookmarks)                |
+| [33-login-auth](./33-login-auth.md)                      | [34-api-integration](./34-api-integration.md) |
+| -------------------------------------------------------- | --------------------------------------------- |
+| [](./33-login-auth.md#what-is-role-based-access-control) | [bookmarks](./34-api-integration.md)          |
+| [bookmarks](./33-login-auth.md#bookmarks)                |                                               |
