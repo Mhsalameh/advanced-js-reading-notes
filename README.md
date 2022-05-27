@@ -55,3 +55,7 @@ This repo contains my reading notes
 | [33-login-auth](./33-login-auth.md)       | [34-api-integration](./34-api-integration.md) | [Graph](./35-Graph.md)               |
 | ----------------------------------------- | --------------------------------------------- | ------------------------------------ |
 | [bookmarks](./33-login-auth.md#bookmarks) | [bookmarks](./34-api-integration.md)          | [bookmarks](./35-Graph.md#bookmarks) |
+
+| [36-Application State with Redux](./36-Application-State-with-Redux.md) |
+| ----------------------------------------------------------------------- |
+| [bookmarks](./36-Application-State-with-Redux.md#bookmarks)             |
