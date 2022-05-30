@@ -46,6 +46,4 @@ The process of subscribing to the store, checking for updated data, and triggeri
 - [testing reducers](https://medium.com/@netxm/testing-redux-reducers-with-jest-6653abbfe3e1)
 - [Redux Docs](https://redux.js.org/)
 
----
 
-[Back](https://github.com/En-ZUH/Reading-notes/tree/main/401)
