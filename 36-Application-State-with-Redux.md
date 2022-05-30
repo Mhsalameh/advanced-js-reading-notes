@@ -45,5 +45,3 @@ The process of subscribing to the store, checking for updated data, and triggeri
 - [worlds easiest guide to redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
 - [testing reducers](https://medium.com/@netxm/testing-redux-reducers-with-jest-6653abbfe3e1)
 - [Redux Docs](https://redux.js.org/)
-
-
