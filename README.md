@@ -59,3 +59,7 @@ This repo contains my reading notes
 | [36-Application State with Redux](./36-Application-State-with-Redux.md) | [37-Redux-Combine-Reducers](./37-Redux-Combined-Reducers.md) | [38-Asynchronous-Actions](./38-Asynchronous-actions.md) |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
 | [bookmarks](./36-Application-State-with-Redux.md#bookmarks)             | [bookmarks](./37-Redux-Combined-Reducers.md#bookmarks)       | [bookmarks](./38-Asynchronous-actions.md#bookmarks)     |
+
+| [39-Redux-Additional-Topics](./39-Redux-Additional-Topics.md) |
+| ------------------------------------------------------------- |
+| [bookmarks](./39-Redux-Additional-Topics.md#bookmarks)        |
