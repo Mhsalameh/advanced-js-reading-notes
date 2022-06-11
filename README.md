@@ -60,6 +60,6 @@ This repo contains my reading notes
 | ----------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
 | [bookmarks](./36-Application-State-with-Redux.md#bookmarks)             | [bookmarks](./37-Redux-Combined-Reducers.md#bookmarks)       | [bookmarks](./38-Asynchronous-actions.md#bookmarks)     |
 
-| [39-Redux-Additional-Topics](./39-Redux-Additional-Topics.md) |
-| ------------------------------------------------------------- |
-| [bookmarks](./39-Redux-Additional-Topics.md#bookmarks)        |
+| [39-Redux-Additional-Topics](./39-Redux-Additional-Topics.md) | [41-react-native](./41-react-native.md)     |
+| ------------------------------------------------------------- | ------------------------------------------- |
+| [bookmarks](./39-Redux-Additional-Topics.md#bookmarks)        | [bookmarks](./41-react-native.md#bookmarks) |
